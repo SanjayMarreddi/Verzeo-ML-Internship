@@ -2,7 +2,11 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-This contains my Codes and Projects of ML Internship at Verzeo
+This contains my Codes and Projects of ML Internship at Verzeo :
+Some Interesting Projects are :
+- Ensemble Machine Learning Modelling ( where I used 3 different Classification algorithms namely SVM, Naïve Bayes and Logistic Regression for classifying the gender of the users. )
+- Advanced Regression 
+- Sentiment Analysis
 
 ## Contributors ✨
 
